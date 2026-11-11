@@ -11,11 +11,12 @@ Aplikasi pengelolaan Data Mahasiswa berbasis Java. Projek ini dibuat untuk mengi
 - **Bahasa Pemrograman**: Java
 - **IDE**: NetBeans
 
+👤 Penulis
+
+    M. Farhan Mahbuban - mahbubfarhan027-lgtm
+
+
 ## 📁 Struktur Folder
 ```text
 javapkg/
  └── (File-file .java projek kamu)
-
-👤 Penulis
-
-    M. Farhan Mahbuban - mahbubfarhan027-lgtm
